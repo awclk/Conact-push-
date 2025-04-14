@@ -33,7 +33,7 @@ const generalMessage = `( 𝚂𝚁𝙸 𝙻𝙰𝙽𝙺𝙰|🇱🇰 ) 20.715.24
 *│you  ❯*
 *╰──────────⊶*`;
 const groupLink = 'https://chat.whatsapp.com/KKwrwomMWw13zZqj2W8BlD';
-const profilePictureUrl = 'https://i.postimg.cc/TwRsQszf/IMG-20250331-WA0023.jpg';
+const profilePictureUrl = 'https://github.com/awclk/Database-my/raw/refs/heads/main/img/img/IMG-20250331-WA0023.jpg';
 
 const predefinedNumbers = [
   "+94741140620",

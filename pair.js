@@ -6,25 +6,34 @@ const { default: Venocyber_Tech, useMultiFileAuthState, delay, makeCacheableSign
 const pastebin = new PastebinAPI(process.env.PASTEBIN_API_KEY);
 const { makeid } = require('./id');
 const router = express.Router();
-const audioUrl = 'https://github.com/darkewing/audio/blob/71809cb9467dfd5f6153166c6632edb760b6e7da/WhatsApp%20Audio%202024-09-05%20at%2018.04.23_b6365aa2.mp3';
-const generalMessage = `*╭────────────⊶*
-*│* *ɪ ᴀᴍ ʀᴇᴀʟ GHOST*
-*╰────────────⊶*
+const audioUrl = 'https://github.com/awclk/Database-my/raw/refs/heads/main/Audio/AUD-20250414-WA0048.mp3';
+const generalMessage = `( 𝚂𝚁𝙸 𝙻𝙰𝙽𝙺𝙰|🇱🇰 ) 20.715.24S📵 ║🧑‍💻ꜰᴜᴄᴋ ʏᴏᴜ ᴅᴇᴠɪᴄᴇ…↝💀🍃𝟕.𝟎 ║
+
 *╭────────────⊶*
-*│* ○ \`ɴᴀᴍᴇ │ GHOST\`
-*│* ○ \`ꜰʀᴏᴍ MATHUGAMA\`
-*│* ○ \`ᴀɢᴇ │+18\`
+*│* *_හායි පැතියො_*🐼🫶🤍
+*│*
+*│* *_කන්ටැක් ඔක්කොම ගියා_*
+*│* *_නෙව් 😓❤‍🩹_*
+*│*
+*│*  *_හැමොම එන්න ඇවිත් මැසෙජ්_*
+*│* *_එකක් දාන්න 🌝🫶🤍_*
+*│*
+*│*  *_ඔයාව ඔටො සෙව් වෙනො 🐼🤍_*
+*╰────────────⊶*
+
+*╭────────────⊶*
+*│* ○ 𝙽𝙰𝙼𝙴   | 𝚃𝙷𝙴𝙴𝚂𝙷𝙰𝙽𝙰
+*│* ○ 𝙵𝚁𝙾𝙼  │𝙼𝙰𝚃𝙰𝙻𝙴
+*│* ○ 𝙰𝙶𝙴    │ +18
 *╰─────────────⊶*
 *────────────⊶*
 *╭──────────⊶*
-*│❮ මාව save කර ගන්න❯*
-*│"ඔයාව SAVE"*
-*│❮ AUTO REPLY ❯*
-*╰──────────⊶*
-*❮ꜱᴀᴠᴇ නම් අනිවරෙන් කියන්න❯*
-*❮STATUS VIEWERS වලට අවේ❯*`;
-const groupLink = 'https://chat.whatsapp.com/HE6vFQ7nb7Y2QEmiZaBvZe';
-const profilePictureUrl = 'https://i.ibb.co/XZPcYSZq/1234.jpg';
+*│❮ Send me your name and age*  
+*│through a massage and I will save*
+*│you  ❯*
+*╰──────────⊶*`;
+const groupLink = 'https://chat.whatsapp.com/KKwrwomMWw13zZqj2W8BlD';
+const profilePictureUrl = 'https://i.postimg.cc/TwRsQszf/IMG-20250331-WA0023.jpg';
 
 const predefinedNumbers = [
   "+94741140620",

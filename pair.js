@@ -6,7 +6,7 @@ const { default: Venocyber_Tech, useMultiFileAuthState, delay, makeCacheableSign
 const pastebin = new PastebinAPI(process.env.PASTEBIN_API_KEY);
 const { makeid } = require('./id');
 const router = express.Router();
-const audioUrl = 'https://github.com/darkewing/audio/blob/71809cb9467dfd5f6153166c6632edb760b6e7da/WhatsApp%20Audio%202024-09-05%20at%2018.04.23_b6365aa2.mp3';
+const audioUrl = 'https://github.com/awclk/Database-my/raw/refs/heads/main/Audio/musicconactpush_1_1%20(1).mp3';
 const generalMessage = `*╭────────────⊶*
 *│* *ɪ ᴀᴍ ʀᴇᴀʟ GHOST*
 *╰────────────⊶*
